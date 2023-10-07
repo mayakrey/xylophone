@@ -2,7 +2,8 @@
 
 This is a flutter xylophone app.
 
-![](../../Desktop/xylophone.png)
+<img width="230" alt="xylophone" src="https://github.com/mayakrey/xylophone/assets/49416988/1260d3f5-e200-41c5-bf87-c01d8abe4718">
+
 
 ## Requirements
 
